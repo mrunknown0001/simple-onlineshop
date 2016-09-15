@@ -1,2 +1,2 @@
-# simple-onlineshop
+# Simple Online Shop
 Basic Online Shop
